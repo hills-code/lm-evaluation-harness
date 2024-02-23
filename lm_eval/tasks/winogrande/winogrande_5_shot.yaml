@@ -1,0 +1,4 @@
+include: default.yaml
+task: winogrande_5_shot
+num_fewshot: 5
+

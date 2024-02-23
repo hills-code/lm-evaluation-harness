@@ -1,0 +1,3 @@
+include: hellaswag.yaml
+task: hellaswag_10_shot
+num_fewshot: 10
